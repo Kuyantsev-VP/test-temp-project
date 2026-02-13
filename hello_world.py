@@ -1,5 +1,13 @@
 import tkinter
 
+print("hello world!")
+
+
 tkinter._test()
 
-print("hello world!")
+
+def func(a: int):
+    print(a)
+
+
+func("a")
